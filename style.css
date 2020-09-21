@@ -1,3 +1,8 @@
 article p {
-    color: blue;
+    color: black;
 }
+html {
+    background-color: lightblue
+}
+h1, p{
+    font-family: Arial;
