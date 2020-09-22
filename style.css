@@ -1,8 +1,28 @@
 article p {
-    color: black;
+    color:#43300C;
+    padding-right: 300px;
+    padding-left: 300px;
 }
 html {
-    background-color: lightblue
+    text-align: center;
+    background-color:#5F78F5;
+}
+header{
+    background-color:#5F78F5;
+}
+body{
+    background-color:rgb(245, 218, 192);
+}
+h1, h2{
+    color:#43300C;
+}
+header p{
+    color:#E6A41F;
 }
 h1, p{
     font-family: Arial;
+}
+h3{
+    font-size: small;
+    color:#43300C;
+}
