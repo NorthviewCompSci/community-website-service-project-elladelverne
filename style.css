@@ -26,3 +26,19 @@ h3{
     font-size: small;
     color:#43300C;
 }
+footer {
+    display:flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   align-items: center;
+}
+#pics{
+   display:flex;
+   flex-flow: row wrap;
+   justify-content: center;
+   align-items: center;
+}
+#link{
+    color:#43300C;
+    text-decoration: none;
+}
