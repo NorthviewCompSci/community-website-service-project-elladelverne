@@ -1,3 +1,53 @@
 article p {
-    color: blue;
+    color:#43300C;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+html {
+    text-align: center;
+    background-color:#5F78F5;
+}
+header{
+    background-color:#5F78F5;
+}
+body{
+    background-color:rgb(245, 218, 192);
+    margin-left: 200px;
+    margin-right:200px;
+}
+h1, h2{
+    color:#43300C;
+}
+header h2{
+    color:#E6A41F;
+}
+h1, p{
+    font-family: Arial;
+}
+h3{
+    font-size: small;
+    color:#43300C;
+}
+h1{
+    font-size: 45px;
+}
+#pics{
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+   align-items: center;
+   padding-right: 100px;
+   padding-left: 100px;
+} 
+#imgs{
+    margin-left: 300px;
+    margin-right:300px;
+}
+#link{
+    color:#43300C;
+    text-decoration: none;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
 }
